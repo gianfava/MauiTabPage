@@ -109,7 +109,7 @@
         </ScrollView>
     </ContentPage>
 
-    <ContentPage Title="Testar" IconImageSource="heart.png" x:Name="EcgPage">
+    <ContentPage Title="Calcular" IconImageSource="heart.png" x:Name="EcgPage">
         <ScrollView>
             <StackLayout Padding="20,0" Spacing="15">
                 <Image Source="logo.png" HeightRequest="80" HorizontalOptions="Center" />
