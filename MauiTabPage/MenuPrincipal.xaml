@@ -176,7 +176,7 @@
         </ScrollView>
     </ContentPage>
 
-    <ContentPage Title="Sobre" IconImageSource="people.png">
+    <ContentPage Title="Aluno" IconImageSource="people.png">
         <ScrollView>
             <Border StrokeThickness="0" Padding="0">
                 <StackLayout Padding="20,0" Spacing="10">
