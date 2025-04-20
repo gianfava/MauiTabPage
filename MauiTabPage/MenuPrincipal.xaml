@@ -176,4 +176,15 @@
         </ScrollView>
     </ContentPage>
 
+    <ContentPage Title="Sobre" IconImageSource="people.png">
+        <ScrollView>
+            <Border StrokeThickness="0" Padding="0">
+                <StackLayout Padding="20,0" Spacing="10">
+                    <Label Text="GIAN CARLO FAVA" FontSize="Large" TextColor="Black" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontAttributes="Bold" />
+                </StackLayout>
+            </Border>
+        </ScrollView>
+    </ContentPage>
+
+
 </TabbedPage>
