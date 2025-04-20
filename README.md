@@ -19,10 +19,10 @@ O **CardioCheck** é um aplicativo desenvolvido em .NET MAUI com navegação por
 ![Home](Snapshots/02.Home.png)
 
 ### 💓 Calcular Risco Cardíaco
-![Calcular](Snapshots/03.Calcular.png)
+![Calcular](https://github.com/gianfava/MauiTabPage/blob/master/MauiTabPage/Snapshots/03.Calcular.png?raw=true)
 
 ### ℹ️ Sobre o App
-![Sobre](Snapshots/03.Sobre.png)
+![Sobre](https://github.com/gianfava/MauiTabPage/blob/master/MauiTabPage/Snapshots/03.Sobre.png?raw=true)
 
 ## Estrutura do Projeto
 
